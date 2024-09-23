@@ -1,6 +1,5 @@
 import json
 from jsonschema import validate
-
 import requests
 
 url = 'https://reqres.in'
